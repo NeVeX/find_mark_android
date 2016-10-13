@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<color name="markRed">#E31F04</color>
+    <string name="app_name">Find Mark</string>
+    <string name="TitlePictureContentDescription">True Love</string>
+    <string name="MainMenuTestText">The <b>Love</b> Menu</string>
+    <string name="BeginButtonText">Begin</string>
+    <string name="ExitButtonText">Exit</string>
+    <string name="AboutButtonText">About</string>
+    <string name="SettingsButtonText">Settings</string>
+	<string name="SettingsMenuText">Settings Menu</string>
+    <string name="SoundOnOffCheckBoxText">Sounds On/Off</string>
+    <string name="TitleImageText"><i>Touch The <b>Heart</b> Above To Continue</i></string>
+    <string name="HappyValentines">Happy Valentine\'s "\n" Adriana</string>
+    <string name="AboutTextTitle"><u>So, What Is This App About?</u></string>
+    <string name="CorrectAnswerDialogBoxCheckBoxText">Show Correct Answer Pop-up Box</string>
+    <string name="DebugModeCheckBoxText">Mark\'s Mode</string>
+    
+    <string name="AboutText">
+Hi Adriana!
+"\n"
+"\n"
+So, I created this Android Application..all for you! I thought that it would be cool to
+create something unique for you. About 3 weeks ago, in late January, I was thinking what
+to do for Valentines that you would remember and love me for. I had already booked a restaurant for Valentines Day, a
+week before. And I was going to tell you about it, but thought I\'d leave it as a surprise. Then my mind 
+started churning ideas about how to execute the surprise of the restaurant (Not a big surprise, I know). 
+Anyhow, it occurred to me, to make you "find" me, or rather, to "find" out what restaurant I had booked!
+I thought about making an activity, or giving you clues on Valentine\'s day, as to where I was. I wanted to make
+it fun. But then again if you didn\'t find me, I would eat alone! If you were to find me, and I hope you do/did, then after 
+the challenges, I would be the reward! Meee! But the challenges part escaped me. How was I to make you "find" me, the restaurant!
+I didn\'t know what to do!
+"\n"
+"\n"
+Then my light bulb moment came.    
+"\n"
+"\n"
+I would create an Android game/application that you would play on Valentines day. The game would ask you multiple questions, about me, about you,
+about my family, general knowledge and everything in between! But once the game is completed, it would reveal to you when and where I would be on
+Valentine\'s day. That was my initial general idea. A simple one. So it did start out as a very simple concept, but that quickly became VERY
+COMPLEX. I have had multiple releases of this game, of which I can show you. You will see the incremental amount of effort
+I put into this. But it was worth it. You\'re worth it. Always.
+"\n"
+"\n"
+But you are probably wondering, Mark, when did you get time to develop this?
+"\n"
+"\n"
+Simple answer: It was at work. But really I did it at home too. Although it was next to impossible to code at home. I will
+show you how Android Apps are developed, but nonetheless, at home I was only able to write code in a text editor as I could never
+test it, since you would/might see the application on the computer. It was blind coding really!
+"\n"
+"\n"
+But I didn\'t code during work hours (it was impossible), so most days, not everyday, when people would head home, I would start to code on this application after hours. 
+Remember, I have never coded in Android before, so for a week I was clue less to what was going on. But 
+after awhile things started to make sense and I was able to progress. The main iterations I did were as follows. I would create some code, test
+it briefly on my work computer, then at the end of the day, create a signed release application [so it would install], send it to me on my phone, and mess with it on the bus
+home. 
+You won\'t believe the amount of issues I encountered on the bus and the lists I made of enhancements/fixes on the silver line!
+Again, I\'ll show you everything and you\'ll understand the development process.
+"\n"
+"\n"
+But I would do it again, all for you. I am very happy I did this. In the future, I will create more apps, maybe even
+my NeVeX A.I. Engine for the Dots And Boxes Game. And that generally excites me!
+"\n"
+"\n"
+So I thank you for giving me a reason to persist with this application, as without you, without my massive hunger to always make you happy,
+to always make you love me, this application would never of happened! I have tried before to create Android applications, but 
+failed as it becomes incredibly complicated very fast and I lose my focus and drive and I ultimately give up. But since I had a vision with this 
+application, and since that vision was you, I of course, was going to complete it, or anything, because it involved you! 
+"\n"
+"\n"
+You mean THAT much to me. And just so we are clear, THAT means EVERYTHING to me!
+"\n"
+"\n"
+Anyhow my dear, enjoy the app, that is completely unqiue and made only for you! (But I do hope no bugs appear and it doesn\'t crash on you too!)
+"\n"
+"\n"
+Happy Valentines!
+"\n"
+You Have All My Love,
+"\n"
+Mark.
+"\n"
+x
+"\n"
+"\n"
+<b>P.S:</b>
+"\n"
+I hope you enjoy the music selection I picked!!
+"\n"
+"\n"
+<b>P.P.S:</b>
+"\n"
+Fun Fact: This application version was finished at 3AM, 14th February, 2012, in our bed, with you asleep beside me! Thank God
+you never woke to see this on my computer! 
+"\n"
+"\n"
+    </string>
+    
+    <string name="GameIntroText"> 
+        <u>Adriana! Please, Save Me!</u>
+	</string>
+    <string name="StartGameButton">Rescue Your True Love!</string>
+    <string name="GameIntroBodyText">
+Baby! I [Mark] have being kidnaped by my arch nemesis <b>KraM</b>!
+He is holding me captive in this very nice restaurant!
+"\n"
+"\n"
+Will you come save me? 
+"\n"
+"\n"
+If so, then I have left a trail to my location. But in the form of cryptic clues! 
+Only the one who <u>knows my heart</u>, shall find me and save me from this food....I mean <b>KraM</b>!
+Note: You must <u>answer the clues from the <b>first person perspective</b></u>!
+"\n"
+"\n"
+Begin your <b>love</b> quest and use your <b>infinite wisdom</b> to save me from <b>impending doom</b>!
+"\n"
+I trust you will succeed (like seriously, <u>you better succeed</u>) and I await your rescue!
+"\n"
+   	</string> 
+    
+    <string name="GameEndText">
+        <u>Huzzah! You Love Mark!</u>
+    </string>
+        <string name="EndGameBodyTextBefore">
+Baby! You\'ve completed the quest of<i>love</i>!
+"\n"
+Now that the journey has ended, I bestow onto you the ancient text, that will help you locate my whereabouts:
+   	</string> 
+	<string name="ResturantText">
+	    <b>Da Vinci Restaurant</b>"\n"
+	    <b>162 Columbus Ave</b>"\n"
+	    <b>Boston, MA</b>"\n"
+	    <b>02116</b>
+    </string>
+	<string name="EndGameBodyTextAfterFirst">
+But wait! 
+"\n"
+"\n"
+I have overheard <b>KraM\'s</b> minions state that he plans to have a committed relationship with
+me (or something awfully horrible along those lines!) at about 8pm tonight!
+"\n"
+"\n"
+Will you save me before <b>KraM</b> has had his way with me?
+"\n"
+"\n"
+Also, I have read the ancient scriptures before and I came across this passage that I could not translate.
+This passage of text, once spoken, is said to destroy <b>KraM</b> and save the cheerleader, which in turn will save
+the world. But I cannot convert the passage text into <b>English</b>. It is too complicated for me.
+"\n"
+"\n"
+However, can you attempt it? If you can translate and then <b><u>communicate the translation</u></b>, 
+I may be be able to set myself free from <b>KraM\'s</b> clutches!
+"\n"
+"\n"
+Quick! The Ancient text reads:
+	</string>
+	
+	<string name="AncientText">
+	    Los dioses han hablado: Sólo la mujer morena sexy tendrá el corazón del hombre blanco, para siempre.
+    </string>
+    
+	<string name="EndGameBodyTextAfterSecond">
+So, can you understand this ancient, wonderful text, that the gods have foreseen and written as fate? One would say that the
+above text is "destiny inscribed". <u>What ever could that mean?!</u>
+"\n"
+"\n"
+Alas! If you can translate <i>(even roughly! :-P )</i> then <u><b>communicate</b></u> it to me via carrier pigeons and the like!
+"\n"
+"\n"
+Always know that I love you, as I anxiously await your <b><i>pigeon</i></b>!
+"\n"
+"\n"
+   </string>
+	
+	<string name="GameEndButton">Save Mark!</string>
+	
+	
+</resources>
